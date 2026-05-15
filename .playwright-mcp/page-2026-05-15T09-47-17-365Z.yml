@@ -1,0 +1,175 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - navigation "Main navigation" [ref=e4]:
+      - link "ShopInMysore.in home" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: ShopInMysore.in
+      - generic [ref=e7]:
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: /about
+        - link "Pricing" [ref=e9] [cursor=pointer]:
+          - /url: /pricing
+        - link "FAQ" [ref=e10] [cursor=pointer]:
+          - /url: "#faq"
+        - link "Contact" [ref=e11] [cursor=pointer]:
+          - /url: /contact
+        - link "Get Website" [ref=e12] [cursor=pointer]:
+          - /url: "#contact"
+  - main [ref=e13]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - paragraph [ref=e17]: Mysore website designer for local businesses
+        - heading "Get your Mysore business found on Google." [level=1] [ref=e18]
+        - paragraph [ref=e19]: ShopInMysore.in builds fast, mobile-first, SEO-ready websites for shops, clinics, restaurants, salons, service providers, and growing local brands in Mysore.
+        - generic [ref=e20]:
+          - link "Get Website" [ref=e21] [cursor=pointer]:
+            - /url: "#contact"
+          - link "Call Now" [ref=e22] [cursor=pointer]:
+            - /url: tel:+91XXXXXXXXXX
+        - list "Service highlights" [ref=e23]:
+          - listitem [ref=e24]: Rs. 3,000/year
+          - listitem [ref=e25]: Live in 3 working days
+          - listitem [ref=e26]: WhatsApp enquiry ready
+      - generic "Website package summary" [ref=e27]:
+        - img "ShopInMysore.in logo" [ref=e28]
+        - paragraph [ref=e29]: Business Website
+        - paragraph [ref=e30]: Rs. 3,000/year
+        - list [ref=e31]:
+          - listitem [ref=e32]: Website design Mysore focused copy
+          - listitem [ref=e33]: Local SEO, schema, sitemap, and meta tags
+          - listitem [ref=e34]: Gallery, services, contact, WhatsApp CTA
+          - listitem [ref=e35]: Secure hosting and basic maintenance
+    - generic [ref=e37]:
+      - generic [ref=e38]:
+        - paragraph [ref=e39]: Why it matters
+        - heading "Mysore customers check online before they call." [level=2] [ref=e40]
+        - paragraph [ref=e41]: Whether someone searches for an affordable website Mysore provider, a nearby clinic, a bakery, a boutique, or a home service, trust starts with a clean website that loads quickly and answers basic questions.
+      - generic [ref=e42]:
+        - article [ref=e43]:
+          - heading "Local search visibility" [level=3] [ref=e44]
+          - paragraph [ref=e45]: Pages are structured around your service, area, photos, contact details, and Google-friendly signals.
+        - article [ref=e46]:
+          - heading "Mobile-first enquiries" [level=3] [ref=e47]
+          - paragraph [ref=e48]: Your phone number, WhatsApp, pricing, timings, and location stay easy to use from small screens.
+        - article [ref=e49]:
+          - heading "Business trust" [level=3] [ref=e50]
+          - paragraph [ref=e51]: A professional website gives new customers confidence before they visit your shop or message you.
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: Included
+        - heading "A complete local business website, not a placeholder page." [level=2] [ref=e56]
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - heading "Mysore business website structure" [level=3] [ref=e59]
+          - paragraph [ref=e60]: Home, services, gallery, pricing, contact, local keywords, internal links, and conversion CTAs.
+        - generic [ref=e61]:
+          - heading "SEO-first foundation" [level=3] [ref=e62]
+          - paragraph [ref=e63]: Clean headings, canonical URLs, Open Graph, structured data, sitemap, robots.txt, and fast static assets.
+        - generic [ref=e64]:
+          - heading "Performance and accessibility" [level=3] [ref=e65]
+          - paragraph [ref=e66]: Local fonts, stable layouts, reduced motion support, readable contrast, semantic HTML, and no CDN runtime dependencies.
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - paragraph [ref=e70]: Pricing
+        - heading "Affordable website Mysore package for small businesses." [level=2] [ref=e71]
+        - paragraph [ref=e72]: Simple annual pricing for business owners who want a reliable website without technical confusion.
+      - article [ref=e73]:
+        - paragraph [ref=e74]: Most popular
+        - heading "Business Website" [level=3] [ref=e75]
+        - paragraph [ref=e76]: Rs. 3,000 per year
+        - list [ref=e77]:
+          - listitem [ref=e78]: Mobile responsive website
+          - listitem [ref=e79]: Local business website Mysore SEO setup
+          - listitem [ref=e80]: WhatsApp and click-to-call buttons
+          - listitem [ref=e81]: 5 small content changes per year
+          - listitem [ref=e82]: Hosting, SSL, sitemap, and basic support
+        - link "Start Now" [ref=e83] [cursor=pointer]:
+          - /url: "#contact"
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - paragraph [ref=e87]: Built for Mysore
+        - heading "Useful for many local business categories." [level=2] [ref=e88]
+      - generic "Business categories" [ref=e89]:
+        - generic [ref=e90]: Flower shops
+        - generic [ref=e91]: Restaurants
+        - generic [ref=e92]: Clinics
+        - generic [ref=e93]: Boutiques
+        - generic [ref=e94]: Salons
+        - generic [ref=e95]: Photographers
+        - generic [ref=e96]: Bakeries
+        - generic [ref=e97]: Repairs
+        - generic [ref=e98]: Coaching centres
+        - generic [ref=e99]: Home services
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - paragraph [ref=e103]: FAQ
+        - heading "Questions business owners ask first." [level=2] [ref=e104]
+        - paragraph [ref=e105]: Clear answers before you spend money or time.
+      - generic [ref=e106]:
+        - article [ref=e107]:
+          - button "Do I need technical knowledge?" [ref=e108] [cursor=pointer]:
+            - generic [ref=e109]: Do I need technical knowledge?
+          - generic:
+            - paragraph: No. You send your business name, service details, photos, area, and contact number. We handle design, setup, SEO basics, and launch.
+        - article [ref=e111]:
+          - button "Is this a real website?" [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]: Is this a real website?
+          - generic:
+            - paragraph: Yes. Your page is a real, crawlable business website with its own URL, metadata, contact actions, and local SEO structure.
+        - article [ref=e115]:
+          - button "Can it help my Google Business Profile?" [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]: Can it help my Google Business Profile?
+          - generic:
+            - paragraph: A good website gives Google and customers more confidence. Link it from your Google Business Profile and keep your name, area, services, and phone number consistent.
+        - article [ref=e119]:
+          - button "How fast can my website go live?" [ref=e120] [cursor=pointer]:
+            - generic [ref=e121]: How fast can my website go live?
+          - generic:
+            - paragraph: Most websites go live within 3 working days after we receive your details and photos.
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - paragraph [ref=e126]: Contact
+        - heading "Ready to build your Mysore business website?" [level=2] [ref=e127]
+        - paragraph [ref=e128]: Call or WhatsApp us with your business name and area. We will confirm the best structure and next steps.
+        - generic [ref=e129]:
+          - link "+91 XXXXX XXXXX" [ref=e130] [cursor=pointer]:
+            - /url: tel:+91XXXXXXXXXX
+          - link "hello@shopinmysore.in" [ref=e131] [cursor=pointer]:
+            - /url: mailto:hello@shopinmysore.in
+          - generic [ref=e132]: Mysore, Karnataka
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - text: Name
+          - textbox "Name" [ref=e135]
+        - generic [ref=e136]:
+          - text: Phone / WhatsApp
+          - textbox "Phone / WhatsApp" [ref=e137]
+        - generic [ref=e138]:
+          - text: Business and area
+          - textbox "Business and area" [ref=e139]:
+            - /placeholder: Bakery in Gokulam
+        - generic [ref=e140]:
+          - text: Message
+          - textbox "Message" [ref=e141]:
+            - /placeholder: Tell us what kind of website you need
+        - button "Send on WhatsApp" [ref=e142] [cursor=pointer]
+  - contentinfo [ref=e143]:
+    - generic [ref=e144]:
+      - generic [ref=e145]:
+        - link "ShopInMysore.in" [ref=e146] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e147]: ShopInMysore.in
+        - paragraph [ref=e148]: Website design Mysore service for local businesses that want trust, speed, and better search visibility.
+      - navigation "Footer pages" [ref=e149]:
+        - link "About" [ref=e150] [cursor=pointer]:
+          - /url: /about
+        - link "Pricing" [ref=e151] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e152] [cursor=pointer]:
+          - /url: /contact
+        - link "Privacy" [ref=e153] [cursor=pointer]:
+          - /url: /privacy-policy
+        - link "Terms" [ref=e154] [cursor=pointer]:
+          - /url: /terms

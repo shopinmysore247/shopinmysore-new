@@ -27,7 +27,7 @@
           - link "Get Website" [ref=e21] [cursor=pointer]:
             - /url: "#contact"
           - link "Call Now" [ref=e22] [cursor=pointer]:
-            - /url: tel:+91XXXXXXXXXX
+            - /url: tel:+919738722032
         - list "Service highlights" [ref=e23]:
           - listitem [ref=e24]: Rs. 3,000/year
           - listitem [ref=e25]: Live in 3 working days
@@ -134,8 +134,8 @@
         - heading "Ready to build your Mysore business website?" [level=2] [ref=e127]
         - paragraph [ref=e128]: Call or WhatsApp us with your business name and area. We will confirm the best structure and next steps.
         - generic [ref=e129]:
-          - link "+91 XXXXX XXXXX" [ref=e130] [cursor=pointer]:
-            - /url: tel:+91XXXXXXXXXX
+          - link "+91 97387 22032" [ref=e130] [cursor=pointer]:
+            - /url: tel:+919738722032
           - link "hello@shopinmysore.in" [ref=e131] [cursor=pointer]:
             - /url: mailto:hello@shopinmysore.in
           - generic [ref=e132]: Mysore, Karnataka
